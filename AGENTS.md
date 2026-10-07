@@ -19,8 +19,8 @@
 
 | Milestone | Description | Skills Exercised | Status |
 | :--- | :--- | :--- | :--- |
-| **Milestone 1** | **Domain Modeling & Branded Types** | Branded types, `keyof`, `T[K]`, Type aliases | ⏳ **In Progress (Next)** |
-| **Milestone 2** | **Error Hierarchy & Narrowing** | `instanceof`, Custom classes, `unknown` handling, CFA | ⚪ Pending |
+| **Milestone 1** | **Domain Modeling & Branded Types** | Branded types, `keyof`, `T[K]`, Type aliases | ✅ **Completed** |
+| **Milestone 2** | **Error Hierarchy & Narrowing** | `instanceof`, Custom classes, `unknown` handling, CFA | ⏳ **In Progress (Next)** |
 | **Milestone 3** | **Type Predicates & Payload Guards** | `param is Type`, `typeof`, `in`, array narrowing | ⚪ Pending |
 | **Milestone 4** | **Higher-Order Middleware Factories** | Closures, function-returning-functions, Contextual typing | ⚪ Pending |
 | **Milestone 5** | **Overloaded Event Dispatcher** | Function overloads, top-to-bottom resolution, exact return inference | ⚪ Pending |
