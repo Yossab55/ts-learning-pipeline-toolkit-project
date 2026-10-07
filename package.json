@@ -18,6 +18,7 @@
   "author": "Yossab",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^26.6.4",
     "typescript": "^5.0.0"
   }
 }
