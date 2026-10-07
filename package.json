@@ -1,0 +1,23 @@
+{
+  "name": "backend-pipeline-toolkit",
+  "version": "1.0.0",
+  "description": "Type-Safe Middleware, Error Handling & Event Pipeline Toolkit built with TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "start": "tsc && node dist/index.js"
+  },
+  "keywords": [
+    "typescript",
+    "type-guards",
+    "pipeline",
+    "middleware",
+    "narrowing"
+  ],
+  "author": "Yossab",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
