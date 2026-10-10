@@ -22,9 +22,9 @@
 | **Milestone 1** | **Domain Modeling & Branded Types** | Branded types, `keyof`, `T[K]`, Type aliases | ✅ **Completed** |
 | **Milestone 2** | **Error Hierarchy & Narrowing** | `instanceof`, Custom classes, `unknown` handling, CFA | ✅ **Completed** |
 | **Milestone 3** | **Type Predicates & Payload Guards** | `param is Type`, `typeof`, `in`, array narrowing | ✅ **Completed** |
-| **Milestone 4** | **Higher-Order Middleware Factories** | Closures, function-returning-functions, Contextual typing | ⏳ **In Progress (Next)** |
-| **Milestone 5** | **Overloaded Event Dispatcher** | Function overloads, top-to-bottom resolution, exact return inference | ⚪ Pending |
-| **Milestone 6** | **Pipeline State Machine** | Discriminated states, `never` exhaustiveness, integration test | ⚪ Pending |
+| **Milestone 4** | **Higher-Order Middleware Factories** | Closures, function-returning-functions, Contextual typing | ✅ **Completed** |
+| **Milestone 5** | **Overloaded Event Dispatcher** | Function overloads, top-to-bottom resolution, exact return inference | ✅ **Completed** |
+| **Milestone 6** | **Pipeline State Machine** | Discriminated states, `never` exhaustiveness, integration test | ⏳ **In Progress (Next)** |
 
 ---
 
