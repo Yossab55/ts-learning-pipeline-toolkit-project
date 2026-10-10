@@ -24,7 +24,7 @@
 | **Milestone 3** | **Type Predicates & Payload Guards** | `param is Type`, `typeof`, `in`, array narrowing | ✅ **Completed** |
 | **Milestone 4** | **Higher-Order Middleware Factories** | Closures, function-returning-functions, Contextual typing | ✅ **Completed** |
 | **Milestone 5** | **Overloaded Event Dispatcher** | Function overloads, top-to-bottom resolution, exact return inference | ✅ **Completed** |
-| **Milestone 6** | **Pipeline State Machine** | Discriminated states, `never` exhaustiveness, integration test | ⏳ **In Progress (Next)** |
+| **Milestone 6** | **Pipeline State Machine** | Discriminated states, `never` exhaustiveness, integration test | ✅ **Completed** |
 
 ---
 
